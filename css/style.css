@@ -457,15 +457,15 @@ footer button:hover{
         font-size: 25px;
     }
     .banner .right .cards{
-        right: 12px;
-        top: 510px;
+        right: 25px;
+        top: 550px;
         font-size: 15px;
         padding: 5px 22px;
         line-height: 27px;
         box-shadow: -2px 11px 20px #13183f3f;
     }
     .banner .right .card2{
-        right: 240px;
+        right: 255px;
         top: 670px;
         padding: 8px 20px;
     }
